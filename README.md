@@ -6,3 +6,5 @@
 
 ### Please don't misuse it. It was only made for educational purposes.
 ### You can try it once though, or even prank your friends. ;p
+
+For installing the libraries in the `requirements.txt` you can just use `pip install <library's name>` Make sure you have `python` installed in your computer.
